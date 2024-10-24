@@ -1,4 +1,7 @@
-<title> GNBLOG BOOSTING SERVICES </title>
+<!doctype html>
+<html class="no-js" lang="" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
+
+  <title> GNBLOG BOOSTING SERVICES </title>
 
 <body>
   <!-- Add your site or application content here -->
@@ -12,3 +15,4 @@
   <p> Twitter(X) Followers - 1K upwards (0.3$ per followers) </p>
   <p> <strong> Please if you wish to get in touch with any of the services WhatsAPP </strong></p>
   <p> https://wa.me/+2330550869391 </p>
+  <script src="js/app.js"></script>
