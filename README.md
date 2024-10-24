@@ -11,6 +11,6 @@
   <p> Facebook Followers - 1K upwards (0.2$ per 50 followers) </p>
   <p> Instagram Followers - 1K upwards (0.5$ per followers) </p>
   <p> Twitter(X) Followers - 1K upwards (0.3$ per followers) </p>
-  <p> <strong> Please if you wish to comply with our services, connect via WhatsAPP </strong></p>
-  <p> https://wa.me/+2330550869391 </p>
+  <p> <strong> Please, if you wish to comply with our services, connect via WhatsAPP </strong></p>
+  <a> https://wa.me/+2330550869391 </a>
   <script src="js/app.js"></script>
