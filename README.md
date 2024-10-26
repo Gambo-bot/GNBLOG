@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -9,7 +9,7 @@
 </head>
 <body>
 <nav class="navbar"></nav>
-<div class="Logo"></div> <a href="#"> Gambs IT Solution</a> </div>
+<div class="Logo"></div> <a href="#"> Gambs IT Solution</a> 
 <ul ></ul>
 <li> <a href="#"> Home </a> </li>
 <li> <a href="#"> Tiktok Followers </a> </li>
