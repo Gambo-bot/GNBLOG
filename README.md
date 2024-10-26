@@ -1,18 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="Viewport" content="widith=device-width, intial scale-1">
+  <title>Navigation Bar</title>
 
-<html class="no-js" lang="" xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html">
 
-  <title> GNBLOG BOOSTING SERVICES </title>
-
+</head>
 <body>
-  <!-- Add your site or application content here -->
-  <p> <strong> <a> Welcome to GNBLOG Social Media Followers Boosting </strong> </p>
-  <img src=https://www.takepayments.com/media/ajwlbye4/social-medai.jpg?center=0.47811145973405056,0.65441506051098164&mode=crop&width=1200&height=600&rnd=132421548104930000 width="200" height="100">
-  <p> Our Services Include</p>
-  <p> <img src="https://img.freepik.com/premium-photo/3d-realistic-tiktok-icon_1082758-2466.jpg?w=740" width="100" height="100"> <img src="https://img.freepik.com/free-psd/social-media-logo-design_23-2151320973.jpg?t=st=1729775017~exp=1729778617~hmac=d24ee9b2acc4201f2d63180e162e62245d8971ff38e887156a4791e525152994&w=740 " width="80" height="100"> <img src="https://img.freepik.com/free-psd/instagram-application-logo_23-2151544092.jpg?t=st=1729776361~exp=1729779961~hmac=2025a03e5a1d185d16e0f17d30f4e5fe5ceb8c395352be801749087de61bad21&w=740" width="80" height="80"> <img src="https://img.freepik.com/free-vector/twitter-new-logo-x-icon-design_1017-45424.jpg?t=st=1729777137~exp=1729780737~hmac=faea2733c96a6da3dd5e025033c88beb3d9036bf805218c665afb450a5f43a25&w=740"width="100" height="100" >
-  <p>Tiktok Followers - 1K upwards (0.2$ per 50 followers) </p>
-  <p> Facebook Followers - 1K upwards (0.2$ per 50 followers) </p>
-  <p> Instagram Followers - 1K upwards (0.5$ per followers) </p>
-  <p> Twitter(X) Followers - 1K upwards (0.3$ per followers) </p>
-  <p> <strong> Please if you wish to get in touch with any of the services WhatsAPP </strong></p>
-  <a> https://wa.me/+2330550869391 </a>
-  <script src="js/app.js"></script>
+<nav class="navbar"></nav>
+<div class="Logo"></div> <a href="#"> Gambs IT Solution</a> </div>
+<ul ></ul>
+<li> <a href="#"> Home </a> </li>
+<li> <a href="#"> Tiktok Followers </a> </li>
+<li> <a href="#"> Facebook Followers </a> </li>
+<li> <a href="#"> Other Platforms </a> </li>
+<li> <a href="#"> About </a> </li>
+<li> <a href="#"> Contact </a>  </li>
+<button> </button> <a href="#"> SignIn</a> <li></li>
+<button></button> <a href="#"> SignUp</a> <li></li>
+<p>WELCOME TO GAMBS IT SOLUTION</p>
+<img src="https://img.freepik.com/free-vector/abstract-illustration-social-media-apps_52683-62412.jpg?t=st=1729970862~exp=1729974462~hmac=3844205d4f89107b98406386b7154c4d771602f30f607a2c1655ba587059fc6c&w=740">
+<p>Our services include</p>
+<p> <a her="#"> </a> Tiktok Followers Boosting <a/> </p>
+<p> <a her="#"> </a> Facebook Followers Boosting <a/> </p>
+<p> <a her="#"> </a> Snapchat Followers Boosting <a/> </p>
